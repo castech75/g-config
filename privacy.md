@@ -2,7 +2,7 @@
 
 Ultimo aggiornamento: 2026-11-08
 
-La presente informativa sulla privacy descrive come vengono gestiti i dati quando utilizzi la nostra applicazione "Drive per r-clone".
+La presente informativa sulla privacy descrive come vengono gestiti i dati quando utilizzi la nostra applicazione "g-config".
 
 ## 1. Raccolta delle Informazioni
 La nostra Applicazione è progettata per uso personale o di test. Non raccogliamo, memorizziamo o condividiamo alcuna informazione personale identificabile degli utenti al di fuori di quanto strettamente necessario per il funzionamento tecnico dell'applicazione stessa (tramite le API di Google).
